@@ -9,7 +9,7 @@ public class WordFrequencies {
         frequencies = new HashMap<>();
     }
     
-    public void addFrequencies(Map<String,Integer> f){
+    public synchronized void addFrequencies(Map<String,Integer> f){
         for(Map.Entry<String, Integer> entry : f.entrySet()) {
             String word = entry.getKey();
             Integer freq = entry.getValue();

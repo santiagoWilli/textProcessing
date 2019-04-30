@@ -1,12 +1,14 @@
 package textprocessing;
 import java.util.*;
 import java.io.*;
-
+        
 public class Main{
+    final static int MAX_CHARS = 100 * 1024;
+
     public static void main(String[] args) throws InterruptedException {
-        FileNames fileNames= new FileNames();
-        FileContents fileContents= new FileContents(30, 100 * 1024);
-        WordFrequencies wordFrequencies= new WordFrequencies();
+        FileNames fileNames = new FileNames();
+        FileContents fileContents = new FileContents(30, MAX_CHARS);
+        WordFrequencies wordFrequencies = new WordFrequencies();
         
         FileReader fr1 = new FileReader(fileNames, fileContents);
         FileReader fr2 = new FileReader(fileNames, fileContents);
@@ -29,32 +31,46 @@ public class Main{
         fp2.join();
         fp3.join();
         
-        for(String palabra : Tools.wordSelector(wordFrequencies.getFrequencies())) {
-            System.out.println(palabra);
+        List<String> words = Tools.wordSelector(wordFrequencies.getFrequencies());
+        
+        for(String word : words) {
+            System.out.println(word);
         }
+        System.out.println("");
+        
+        Test.check(wordFrequencies, "datos");
     }
 }
 
 class Tools {
-    public static void fileLocator(FileNames fn, String dirname){
-        File dir = new File(dirname);
-        if ( ! dir.exists() ){
+    public static void getDirNames(List<String> list, String path) {
+        File dir = new File(path);
+        if(!dir.exists()) {
             return;
         }
-        if ( dir.isDirectory() ) {
+        if(dir.isDirectory()) {
             String[] dirList = dir.list();
-            for ( String name: dirList ) {
-                if ( name.equals(".") || name.equals("..") ) {
+            for(String name : dirList) {
+                if(name.equals(".") || name.equals("..")) {
                     continue;
                 }
-                fileLocator(fn, dir + File.separator + name);
+                getDirNames(list, dir + File.separator + name);
             }
         } else {
-            fn.addName(dir.getAbsolutePath());
-            //System.out.println(dir.getAbsolutePath());
+            list.add(dir.getAbsolutePath());
         }
     }
+    
+    public static void fileLocator(FileNames fn, String dirname){
+        List<String> names = new ArrayList<>();
+        getDirNames(names, dirname);
+        for(String name : names) {
+            fn.addName(name);
+        }
+    }
+    
     public static class Order implements Comparator< Map.Entry<String,Integer> > {
+        @Override
         public int compare(Map.Entry<String,Integer> o1, Map.Entry<String,Integer> o2) {
             if ( o1.getValue().compareTo(o2.getValue()) == 0 ) {
                 return o1.getKey().compareTo(o2.getKey());
@@ -64,33 +80,31 @@ class Tools {
     }
     
     public static List<String> wordSelector(Map<String,Integer> wf){
-        Set<Map.Entry<String,Integer>> set=wf.entrySet();
-        Set<Map.Entry<String,Integer>> orderSet= new TreeSet<Map.Entry<String,Integer>>(
-            new Order());
-        orderSet.addAll(set);
-        List<String> l = new LinkedList<String>();
-        int i=0;
-        for ( Map.Entry<String,Integer> pair: orderSet){
-            l.add(pair.getValue() + " " + pair.getKey() );
+        Set<Map.Entry<String,Integer>> set = wf.entrySet();
+        Set<Map.Entry<String,Integer>> orderedSet = new TreeSet<>(new Order());
+        orderedSet.addAll(set);
+        List<String> list = new LinkedList<>();
+        int i = 0;
+        for (Map.Entry<String,Integer> pair : orderedSet){
+            list.add(pair.getValue() + " " + pair.getKey() );
             if (++i >= 10 ) break;
         }
-        return l;
+        return list;
     }
 
     public static  String getContents(String fileName){
         StringBuilder text = new StringBuilder();
-		try {
-		    FileInputStream fis = new FileInputStream( fileName );
-	        BufferedReader br = new BufferedReader( new InputStreamReader(fis, "ISO8859-1") );
-			String line;
-			while (( line = br.readLine()) != null) {
-				text.append(line);
-				text.append("\n");
-			}
-		} catch (IOException e) {
-			return "Error: " + e.getMessage();
-		}
+            try {
+                FileInputStream fis = new FileInputStream(fileName);
+                BufferedReader br = new BufferedReader(new InputStreamReader(fis, "ISO8859-1"));
+                    String line;
+                    while((line = br.readLine()) != null) {
+                        text.append(line);
+                        text.append("\n");
+                    }
+            } catch (IOException e) {
+                return "Error: " + e.getMessage();
+            }
         return text.toString();
     }
-    
 }
