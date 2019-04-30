@@ -1,0 +1,726 @@
+Fueron esos tres chiflados y, de ellos, dos humanos. Les podía hablar a todos porque 
+conozco idiomas, decimal y binario. La primera vez que me tropecé con aquellos payasos 
+fue cuando quisieron saberlo todo sobre Heróstrato y les ilustré. La vez siguiente ya se 
+trataba de Conus gloria maris y se lo expliqué. La tercera, me preguntaron dónde podían 
+esconderse y se lo dije. Desde entonces estamos en contacto. Él era Jake Madigan (James 
+Jacob Madigan, doctor en filosofía de la Universidad de Virginia), jefe de la sección de 
+Exobiología del Centro de Vuelos Espaciales Goddard, con los que confían estudiar las 
+formas de vida extraterrestre, si es que atrapan alguna. Para darles una idea de su sensatez, 
+una vez programó el computador IBM 704 con un mazo de naipes e imprimió limones, 
+naranjas, ciruelas y así sucesivamente; luego, lo hizo jugar contra la máquina tragaperras y 
+perdió la camisa. El muchacho estaba verdaderamente majareta.
+Ella era Florinda Pot (se pronuncia «Poe» porque es un apellido flamenco.) Era una 
+preciosa rubia pero toda cubierta de pecas, desde por debajo del dobladillo del vestido 
+hasta encima del escote. Era M.E. de la Universidad de Sheffield y tenía una voz de 
+ametralladora inglesa. Había estado en la División de Cohetes de Sondeo, hasta que hizo 
+estallar un Aerobee con una manta eléctrica. Parece que ese sólido combustible no produce 
+la máxima aceleración si está muy frío, de modo que esta pequeña suplente de madre 
+calentaba sus cohetes en White Sands con mantas eléctricas antes de producirse el 
+encendido. Una manta se prendió fuego y «pum»
+Su hijo era S-333. En la NASA designan con una «S» a los satélites científicos y con una 
+«A» a los de aplicación. Tras el lanzamiento les adjudican siglas públicas como IMP, 
+SYNCOM, OSO, etc., S-333 iba a ser un OBO, las siglas de Observatorio Biológico Orbital, y 
+jamás llegaré a comprender cómo esos dos payasos consiguieron lanzar al espacio el 
+tercero. Sospecho que el director les encargó la misión porque nadie con sentido común se 
+atrevió a tocarlo.
+Como proyectista científico, Madigan estaba a cargo de los envases de los experimentos 
+que debían lanzar, y muchos vuelos ya se habían espaciado. Lo llamaba su ELECTROLUX, 
+como la máquina aspiradora; un chiste de humor científico. Consistía en una válvula 
+aspiradora que succionaba las partículas de polvo y las depositaba en un frasco que 
+contenía un medio de cultivo. Una luz irradiaba por la botella y producía un efecto 
+fotoeléctrico. Si una partícula de polvo poseía formas de esporas y si prendía en el medio de 
+cultivo su desarrollo empañaba la botella y la disminución de luz se registraba en la célula 
+fotoeléctrica. Lo llamaban Detector por Extinción.
+Cal Tech debía experimentar si las moléculas RNA podían enviar un mensaje del 
+organismo ambiental. Empleaban células nerviosas de los moluscos del Mar de la Liebre. 
+Harvard planeaba un envío para investigar los ritmos fisiológicos. Pensilvania quería 
+examinar el efecto del campo magnético de la tierra en las bacterias del hierro y tuvieron que 
+lanzar un cable Perin para evitar el roce magnético con el sistema electrónico del satélite. El 
+estado de Ohio mandaba líquenes para analizar los efectos del espacio y su relación 
+simbiótica con los mohos y algas. Michigan mandaba por avión un terrario que contenía una 
+(1) zanahoria y el cual necesitaba cuarenta y siete (47) mandos separados para su 
+funcionamiento. En definitiva, S-333 era exactamente Rube Goldberg
+Florinda era la directora del Proyecto, supervisaba la construcción del satélite y los envíos; 
+el director del proyecto, Florinda, era algo así como el capataz de la misión. Aunque bonita y 
+deliciosamente chiflada se aferraba a su trabajo y cuando se irritaba mostraba la disposición 
+de una tarántula de cara pecosa; por lo cual no era amada.
+Estaba decidida a liquidar a todos los inútiles de White Sands y su exigencia de 
+perfección retrasó el programa dieciocho meses y aumentó el coste en tres cuartos de 
+millón. Se enfadaba con todos y hasta tuvo la osadía de pelearse con Harvard. Cuando los 
+de Harvard se molestan no se quejan a la NASA sino que van directamente a la casa blanca. 
+Por tal motivo, Florinda tuvo que soportar un rapapolvo de un comité del Congreso. Primero 
+querían saber porqué S-333 costaba más de lo previsto.
+- S-333 es aún la misión más barata de la NASA - les espetó -. Vendrá a costar diez 
+millones de dólares incluyendo el lanzamiento. ¡Dios mío! Pero si prácticamente es un 
+regalo.
+Luego le preguntaron por qué en su construcción se empleó mucho más tiempo del 
+estipulado.
+- Porque nadie ha construido antes un Observatorio Biológico Orbital.
+Como aquello no admitía réplica, la dejaron estar. En realidad, no fue más que una crisis 
+de rutina, pero OBO era el primer satélite de Florinda y de Jake y de eso no se daban 
+cuenta. Aplacaron sus tensiones echándose la culpa los unos a los otros sin percatarse de 
+que el único responsable era su hijo.
+El 1º de diciembre, Florinda entregó puntualmente al Cabo el S-333, lo que les daba 
+tiempo suficiente para lanzarlo antes de Navidad. (En vacaciones, el equipo del Cabo no se 
+esfuerza demasiado.) Pero el satélite comenzó a manifestar sus caprichos, y en las pruebas 
+finales todos andaban trastornados. Se tuvo que aplazar el lanzamiento y tardaron un mes en 
+llevarse el S-333 para desmontarlo todo sobre el suelo del hangar.
+Existían dos problemas críticos. El estado de Ohio usaba un tipo de Invar para la 
+estructura de sus envases que era una aleación de níquel y acero. De pronto, la aleación 
+comenzó a fundirse, lo que indicaba que jamás conseguirían calibrar el experimento. No 
+había forma de que volara, así que Florinda ordenó que lo restregasen bien, y a Madigan le 
+concedió un mes para presentarse con un repuesto, lo cual era ridículo. Sin embargo, 
+Madigan realizó el milagro. Tomó el envase bloqueado y lo convirtió en levadura. Esta 
+produce enzimas adecuadas que responden a los cambios ambientales, lo cual dio por 
+resultado una investigación de lo que las enzimas producirían en el espacio.
+Otro problema más grave fue la radio transmisora del satélite; emitía gorjeos y alaridos 
+cuando la antena se replegaba en posición de lanzamiento. El peligro estribaba en que los 
+gritos podía recogerlos la radio receptora del satélite y los latidos motivar una orden de 
+destrucción. La NASA sospecha que eso fue lo que sucedió con el NYNCOM 1, que 
+desapareció poco después del lanzamiento y jamás se ha vuelto a saber de él. Florinda 
+decidió lanzar su satélite con el transmisor cerrado y, luego, activarlo en el espacio.
+Madigan rechazó la idea.
+- ¿Cómo si lanzáramos un pájaro mudo? - protestó -. No sabríamos dónde localizarlo.
+- Confiemos en que la estación de rastreo de Johannesburgo nos dé la señal cuando ase 
+- contestó Florinda -. Tenemos con Joburg excelentes comunicaciones cablegráficas.
+- Supón que no consiguen detenerlo; ¿qué pasa?
+- ¡Pues si ellos no pueden localizar a OBO, lo harán los rusos!
+- ¡Muy chistosa! ¿No se te ocurre otra idea mejor!
+- ¿Qué quieres que haga, anular la misión? Eso, o lanzarlo con el transmisor cerrado - y 
+miró a Madigan con ojos llameantes -. Es mi primer satélite y ¿sabes lo que me enseñó? 
+Que en toda labor espacial sólo hay un componente que siempre te da disgustos: ¡los 
+científicos!
+- ¡Mujeres! - rugió Madigan y se enzarzaron en una feroz discusión sobre la mística 
+femenina.
+El 14 de enero finalizaron las últimas pruebas del S-333, así como el papeleo y las 
+discusiones sobre el lanzamiento. Sin mantas eléctricas. La nave sería puesta en órbita a mil 
+millas del lugar del lanzamiento, exactamente al mediodía, de modo que el encendido estaba 
+programado para las 11:50 de la mañana del 15 de enero. Observaron el lanzamiento desde 
+la pantalla del televisor de la torre de control y fue angustioso. Los perímetros de los tubos de 
+la TV son curvos, así, cuando el satélite despegó y se acercaba al borde de la pantalla, se 
+produjo una deformación óptica y parecía que el cohete iba a volcar y romperse por la mitad.
+Madigan jadeaba y empezó a sudar. Florinda exclamó: 
+- No te preocupes, todo va muy bien. Mira la posición del gráfico.
+Todo era nominal en los gráficos iluminados. En aquel momento una voz, de la agencia de 
+noticias habló con el tono impersonal de un croupier:
+- Hemos perdido la comunicación cablegráfica con Johannesburgo.
+Madigan se echó a temblar y decidió matar a Florinda Pot (en su mente pronunció «Pot» - 
+cacharro - ) a la primera ocasión. Los otros técnicos y el personal de la NASA palidecieron. 
+Si no consigues localizaran el acto un proyectil jamás lo vuelves a encontrar, Nadie hablaba. 
+Aguardaban en silencio y se odiaban mutuamente. La una y media era la hora en que el 
+satélite debía pasar por primera vez sobre la estación de rastreo de Fort Myers, si es que 
+todavía existía, sí es que se hallaba en algún lugar de su órbita nominal. Fort Myers tenía línea 
+y todos se agolparon en torno a Florinda procurando acercar el oído al auricular.
+- Si, entró bailando en el bar completamente borracha escoltada por un par de policías del 
+ejército - habló una vocecita indiferente -. Me dijo «¿Quieres dar un paseíto, Henry?» - siguió 
+una larga pausa y luego la misma voz indiferente dijo -: ¿Eh, Kennedy? Hemos cazado el 
+pájaro. Ahora mismo pasa sobre la verja. Tendrá su localización.
+- ¡Orden 0310! - gritó Florinda -. ¡0310!
+- Es la orden 0310 - contestó Fort Myers.
+Era la orden para hacer funcionar el transmisor del satélite y levantar su antena en 
+posición de emisora. Un momento después, los discos y el osciloscopio del tablero del 
+receptor de la radio comenzaron a moverse y el altavoz emitió un gorjeo rítmico, sincopado, 
+más parecido al débil crujir de un cacahuete tostado al romperlo. Era OBO que transmitía 
+sus informes domésticos.
+- ¡Hemos cazado un pájaro vivo! - chillaba Madigan -, ¡Tenemos una muñeca viva!
+No puedo describir sus sensaciones cuando oyó que el pájaro piaba sobre la estación de 
+gas. Hay tal emoción cuando se lanza el primer satélite que ya nunca más eres el mismo. El 
+primer satélite de un hombre es como su primera aventura amorosa. Tal vez por eso 
+Madigan abrazó a Florinda frente a la torre de control y exclamó:
+- ¡Dios mío, te amo, Florie Pot!
+Tal vez por eso ella contestó:
+- Yo también te amo, Jake.
+Quizá, porque sólo amaban a su primer hijo.
+Por la órbita 3 descubrieron que su hijo era un descarado.
+En un jet de las Fuerzas Aéreas regresaron a Washington. Habían conseguido algo digno 
+de celebrarse. Era la una y media de la mañana y hablaban felices; esa conversación, 
+corriente entre los que se acaban de conocer y simpatizado, donde habían nacido en qué 
+colegio se educaron, de su trabajo, lo que les gustó de cada uno la primera vez que se 
+vieron. Sonó el teléfono. Madigan lo descolgó automáticamente y preguntó. Una voz de 
+hombre dijo:
+- Oh, disculpe, creo que me equivoqué de número.
+Madigan colgó, encendió la luz y miró a Florinda consternado.
+- Fue la cosa más estúpida que jamás hice en mi vida. Contestar por tu teléfono.
+- ¿Por qué? ¿Qué pasa?
+- Era Joe Leary, de Sondeo e Informes. Reconocí su voz.
+- Y él, ¿te reconoció? - y soltó una risita maliciosa.
+- No lo sé - volvió a sonar el teléfono -. Debe de ser otra vez Joe. Procura hablar como si 
+estuvieras sola.
+Florinda le hizo un guiño y descolgó el teléfono.
+- ¿Diga? Sí, Joe. No, todo perfecto, no estaba durmiendo. ¿Qué supones? - escuchó un 
+momento y de pronto se sentó en la cama y exclamó -: ¿Cómo? - Leary parpaba como un 
+pato asustado pero ella lo interrumpió -. No te preocupes, lo recogeré. En seguida vamos - y 
+colgó.
+- ¿Qué pasa? - preguntó Madigan.
+- Corre y vístete. OBO está en apuros.
+- ¡Jesús! ¿Qué hacemos ahora?
+- Está girando como un derviche. Tenemos que ir en seguida a Goddard.
+Leary tenía impresos todos los canales de salida de las primeras ocho órbitas. Diez 
+minutos de papel desenrollado en el suelo de su despacho, parecía una toalla de papel llena 
+de columnas verticales de números. Leary se arrastraba alrededor apoyado en las manos y 
+las puntas de los pies, rastreando los números. Señaló la columna con los datos de posición.
+- Ahí está el molinete. Una revolución cada doce segundos.
+- Pero ¿cómo es posible? ¿Por qué? - objetó Florinda exasperada.
+- Puedo mostrártelo aquí - señaló Leary.
+- No nos lo enseñes, sólo cuéntanoslo - suplicó Madigan.
+- El mástil del cable de ignición no obedeció la orden - explicó Leary -; todavía cuelga en 
+posición de lanzamiento. Hay que obturar el conmutador.
+Florinda y Madigan se miraron con rabia; se lo imaginaban. OBO estaba programado 
+para ser estabilizado en tierra. Se suponía que un ojo sensitivo que se adhería a la tierra 
+mantenía al satélite de cara a él por la fuerza centrífuga. El cable Perin colgaba a lo largo del 
+sensor terrestre y el ojo idiota había bloqueado el tubo y lo seguía y a consecuencia de ello el 
+satélite se perseguía a sí mismo en círculos como sus chorros de gas laterales. ¡Demencial!
+Permítanme que les explique el problema. A menos que OBO estuviera estabilizado en 
+tierra, sus datos no tenían sentido. Todavía peor era la cuestión de la fuerza eléctrica que 
+procedía de baterías cargadas por pantallas solares. Con el satélite girando, las baterías no 
+podían permanecer siempre de cara al sol, por lo que estaban condenadas a agotarse.
+Era evidente que su única esperanza consistía en alcanzar el cable de ignición.
+- Probablemente, todo lo que necesita es un buen puntapié - expuso Madigan furioso -, 
+pero, ¿cómo vamos a subir para dárselo? - Estaba fuera de sí. No sólo porque se perdían 
+diez millones de dólares sino porque también peligraba su carrera.
+Dejaron a Leary arrastrándose por el suelo de su oficina.
+Florinda estaba muy callada hasta que por último propuso:
+- Vete a casa, Jake. 
+- ¿Y tú?
+- Yo me voy a la oficina.
+- Te acompaño.
+- No. Voy a mirar la reproducción del circuito. Buenas noches. - Ya se iba sin ofrecerle la 
+mejilla para recibir un beso cuando Madigan exclamó:
+- OBO ya se interpone entre nosotros. Hay mucho de qué hablar respecto a la paternidad 
+planeada.
+Vio a Florinda la semana siguiente pero no como él hubiera deseado. Estaban los 
+técnicos a los que se debía informar del fracaso. El director los llamó a su despacho para 
+que le detallaran lo sucedido, pero aunque se mostró benévolo y comprensivo tuvo mucho 
+cuidado en no mencionar que se celebrase un congreso y mucho menos que se hiciesen 
+revelaciones a la prensa.
+Florinda llamó a Madigan una semana después y le dijo con voz jubilosa:
+- Jake, eres mi genio benéfico. Espero que hayas resuelto el problema de OBO.
+- ¿Quién y qué lo resuelve?
+- ¿No recuerdas lo que dijiste acerca de darle un puntapié al niño?
+- ¡Ojalá pudiera!
+- Creo que sé cómo lo conseguirás. Nos veremos en la cafetería del Edificio 8 para 
+almorzar.
+Entró con un montón de papeles que desplegó sobre una mesa.
+- Primero Operación Puntapié-Rápido. Luego, comeremos. 
+- Estos días no tengo mucho apetito - se lamentó Madigan con voz lúgubre.
+- Quizá lo recuperes cuando haya terminado. Ahora mira: tenemos que levantar el cable 
+de ignición. Quizás un buen puntapié lo desatasque; ¿te parece una buena suposición?
+Madigan gruñó.
+- Conseguimos veintiocho voltios de las baterías y no es suficiente para sacudir el cable, 
+¿qué te parece?
+Madigan asintió.
+- Pero supón que doblamos la fuerza.
+- Estupendo, pero, ¿cómo?
+- El componente solar da una vuelta cada doce segundos. Cuando da al sol los paneles 
+reparten cincuenta voltios que recargan las baterías; cuando se aparta, nada, ¿exacto?
+- Elemental, Miss Pot. Pero el tío sólo mira el sol un segundo de cada doce y eso no basta 
+para cargar las baterías.
+- Pero sí lo suficiente para darle a OBO un rápido puntapié. Imagina que en ese mismo 
+momento pasamos ante las baterías y alimentamos directamente al satélite con cincuenta 
+voltios. ¿No sería una sacudida suficiente para levantar el cable?
+Madigan la miró atónito. Florinda sonrió.
+- Claro que es una empresa arriesgada.
+- ¿Puedes pasar ante las baterías? 
+- Sí. Aquí está el circuito.
+- ¿Y elegir el segundo?
+- La sección de sondeo me ha proporcionado muchísima información sobre la rotación de 
+OBO en una décima de segundo. Aquí está. Podemos tomar cualquier voltaje, del uno al 
+cincuenta.
+- Estoy de acuerdo en que es una empresa arriesgada - contestó despacio Madigan -. 
+Pero existe la posibilidad de quemar cualquier parte.
+- Exacto. ¿Qué contestas a eso?
+- Que de pronto me siento hambriento - sonrió Madigan.
+Hicieron la primera prueba en la órbita 272 con una carga de veinte voltios. Nada. En 
+pases sucesivos elevaron el voltaje, a cinco más. Nada. Medio día después, pusieron 
+cincuenta voltios en la parte posterior del satélite y cruzaron los dedos. Las agujas de los 
+discos oscilaron en el panel de la radio, vacilaron y se retrasaron. La segunda curva del 
+osciloscopio se aplanó. Florinda dejó escapar un pequeño grito y Madigan vociferó:
+- El cable está arriba, Florie. ¡Ese condenado cable ya se levantó! Estamos en activo.
+Pasaron por Goddard gritando, contándoles a todos la operación Puntapié-Rápido. 
+Entraron como un ciclón en el despacho del director durante una reunión, para ofrecerle la 
+buena nueva. Telegrafiaron a los investigadores para que activaran los envíos. Finalmente 
+acudieron a celebrarlo al piso de Florinda. OBO funcionaba de nuevo. OBO era digno de 
+confianza.
+Una semana después tuvieron una reunión técnica para discutir las condiciones del 
+observatorio, la reducción de datos, las irregularidades de los experimentos, las futuras 
+operaciones, etc. Se celebró una conferencia en el Edificio 1, dedicado a la física teórica. En 
+Goddard, casi todos lo llaman Moon Hall (Sala de la luna). Está habitado por matemáticos, 
+jóvenes melenudos de suéters raídos que se sientan entre montones de papeles y 
+periódicos, textos, y contemplan con ojos inexpresivos las ecuaciones arcanas dibujadas 
+con yeso en las pizarras. Todos los investigadores estaban encantados con la actuación de 
+OBO. Se ofrecían datos a raudales, en voz alta y clara, sin que se oyeran apenas ruidos. 
+Reinaba tal ambiente de triunfo que nadie, excepto Florinda, prestaba atención a la siguiente 
+señal de los embustes de OBO. Harvard informó que sus datos eran sólo palabras sin 
+sentido; palabras que no estaban programadas en el experimento (aunque los datos se 
+recogen en números decimales, cada numero es una palabra.) Por ejemplo: sobre órbita 
+301 tengo cinco datos de 15 - expuso Harvard.
+- Puede que hubiera un cruce - objetó Madigan -. ¿emplea 15 en su experimento?
+Todos negaron con cabeza.
+- Es curioso, yo también tengo dos 15.
+- Yo, unos cuantos doses en el 301 - manifestó Penn.
+- Yo los supero a todos - informó Cal Tech -. Tengo cinco informes de 15-2-15 en el 302. 
+Parece la combinación del cierre de una bicicleta.
+- ¿Alguno usa en su experimento un cierre de bicicleta? - interpeló Madigan. Ante esas 
+palabras todos se dispersaron y la reunión se aplazó.
+Pero Florinda, todavía fascinada por su trabajo, estaba preocupada por las extrañas 
+palabras que seguían deslizándose por el computador y Madigan no logró calmarla. Lo que 
+más preocupaba a Florinda era ese 15-2-15 que se insinuaba más y más en los impresos 
+de cada canal. En realidad en la transmisión binaria del satélite era 001111-000010-001111 
+pero el computador las traduce automáticamente a decimales. Tenía razón en una cosa: las 
+pulsaciones perdidas y accidentales no repetían el mismo trabajo una y otra vez. Ella y 
+Madigan pasaron todo un sábado tratando de descubrir alguna combinación de señales que 
+produjera 15-2-15. Nada.
+Por la noche, lo dejaron y acudieron a un bistro en Georgetown, para comer, beber, bailar 
+y olvidarse de todo salvo de ellos. El lugar era una verdadera trampa turística con la 
+camarera disfrazada de bailarina hula-hula. Había una tienda de souvenirs Hula donde 
+vendían muñecas, tigres de trapo para el cristal posterior del coche. Ellos gritaban: «¡No por 
+el amor de Dios!» Un fotógrafo hula se acercó a su mesa con la cámara fotográfica pero 
+ellos seguían gritando: «¡Por el amor de Goddard, no!» Una gitana hula se ofrecía para leer 
+la buenaventura en la palma de la mano, además de numerología y grafología. Se la quitaron 
+de encima, pero Madigan observó una expresión peculiar en el semblante de Florinda.
+- ¿Quieres que te lean la buenaventura? 
+- No.
+- Por qué, pues, pones esa cara tan rara?
+- Se me ha ocurrido una idea muy curiosa.
+- ¿Ah sí?, cuéntamela.
+- No. Te reirías de mí.
+- No me atrevería. Me romperías la cara.
+- Sí, lo, sé; crees que las mujeres no tenemos sentido del humor.
+Y aquello terminó en una feroz discusión sobre la mística femenina y se divirtieron 
+muchísimo. Pero el lunes, Florinda volvió al despacho de Madigan con un montón de papeles 
+y la misma expresión peculiar. El contemplaba las ecuaciones de la pizarra con mirada 
+distraída.
+- ¡Eh, despierta! 
+- ¡Ya voy, ya voy! 
+- ¿Me quieres?
+- No necesariamente.
+- ¿De veras? ¿Incluso si descubres que me he vuelto loca?
+- ¿A qué viene todo eso?
+- Creo que nuestro hijo se ha convertido en un monstruo. 
+- Empieza por el principio
+- Empezó el sábado por la noche con la gitana hula y la numerología.
+- ¡Ah... ya!
+- De pronto, pensé: Y si los números representan las letras del alfabeto, ¿qué querría decir 
+15-2-15?
+- ¡Ah, vamos!
+- No te escabullas y usa tu imaginación.
+- Bien, el 2 sería la B - y Madigan contó con los dedos -; 15 indicaría la O.
+- ¿De modo que 15-2-15 es...?
+- O.B.O. OBO - se echó a reír pero se paró de repente -. No es posible - exclamó 
+finalmente.
+- Claro. Es una coincidencia. Sólo que vosotros, condenados científicos, no me habéis 
+proporcionado un informe completo de las extrañas palabras de vuestros datos. Tuve que 
+averiguarlo yo sola. Ahí tienes a Cal Tech. Informó 15-2-15, de acuerdo, pero no se molestó 
+en añadir que antes venía 22-18-27.
+Madigan contó con los dedos. 
+- S.O.Y. No han quien lo entienda. 
+- ¿y yo soy? ¿Soy OBO?
+- No puede ser. Déjame ver esos impresos.
+Ahora que ambos sabían lo que habían de buscar, no fue difícil descifrar por fin las 
+palabras que OBO desparramaba entre los datos. Comenzaron con la 00101 en la primera 
+serie después de la Operación Puntapié-Rápido; siguieron con OBO, OBO. OBO Y luego 
+SOY OBO, SOY OBO, SOY OBO.
+Madigan contemplaba a Florinda. 
+- ¿Crees que ese maldito artefacto vive?
+- ¿Tú que crees?
+- No lo sé. Allá arriba hay media tonelada de cerebros electrónicos, más material 
+orgánico: levadura, bacterias, enzimas, células nerviosas, esa maldita zanahoria de 
+Michigan...
+Florinda dejó escapar una carcajada.
+- ¡Cielos! ¡Una zanahoria que piensa!
+- Además de las esporas que mi experimento arrastra por el espacio. Con cincuenta 
+voltios hemos dado una sacudida a todo ese batiburrillo. ¿Quién puede contar lo que pasó? 
+Urey y Miller crearon aminoácidos con descargas eléctricas y ése es el fundamento de la 
+vida. ¿Algo más del niño bueno? 
+- Muchas cosas y de un modo que no gusta a los investigadores.
+- ¿Por qué?
+- Fíjate en esas traducciones. Las he ido separando y luego las he unido.
+33: CUALQUIER EXAMEN DE DESARROLLO EN EL ESPACIO ES INSENSATO A NO 
+SER QUE TENGA CORRELACIÓN CON EL EFECTO CORRELATIVO.
+- Es un comentario de OBO sobre el experimento de Michigan - manifestó Florinda.
+- ¿Te refieres a que es un fisgón?
+- Llámalo así, si quieres.
+- Tiene toda la razón. Lo expuse en Michigan y no quisieron escucharme.
+334: NO ES POSIBLE QUE LAS MOLÉCULAS RNA PUEDAN ENVIAR LA 
+EXPERIENCIA AMBIENTAL DE UN ORGANISMO ANÁLOGO AL SISTEMA CON QUE 
+DNA COMUNICA LA SUMA TOTAL DE SU HISTORIA GENÉTICA.
+- Eso es de Cal Tech - exclamó Madigan -, y otra vez está en lo cierto. Tratan de revisar la 
+teoría mendeliana, ¿algo más?
+53: CUALQUIER INVESTIGACIÓN DE VIDA EXTRATERRESTRE CARECE DE LÓGICA 
+A MENOS QUE ANTES SE ANALICE EL AZÚCAR Y AMINOÁCIDOS PARA DETERMINAR 
+SI ES DE UN ORIGEN DIFERENTE AL DE LA VIDA EN LA TIERRA.
+- ¡Oye, esto es ridículo! Yo no busco una forma de vida de origen diverso, sólo busco una 
+forma de vida. Nosotros... - se detuvo cuando vio el semblante de Florinda -. ¿Alguna 
+maravilla más?
+- Sólo unos cuantos fragmentos como el «flujo solar», las «estrellas de neutrones» y 
+algunas palabras sobre la ley de Quiebra.
+- ¿Cómo?
+- Ya me oíste. Capítulo once de la Sección de Transacciones.
+- Estoy perdido.
+- De acuerdo.
+- ¿Qué se propone?
+- Tal vez sentirse importante.
+- Opino que no debemos hablar a nadie de eso. 
+- Por supuesto, pero, ¿qué vamos a hacer?
+- Observar y esperar, ¿qué otra cosa podemos hacer?
+Ya comprenderán por qué era tan sencillo para esos dos pseudopadres aceptar la idea de 
+que su seudohijo había adquirido una especie de seudovida. Madison había expresado su 
+actitud en el curso de «La Vida contra la Máquina», una conferencia que pronunció en M.I.T., 
+el Instituto de Tecnología de Massachussets.
+«No pretendo que los computadores sean seres vivos, simplemente porque ninguno 
+puede presentar una definición concreta de la vida. Anótenlo así: Admito que un computador 
+nunca será un Picasso, pero por otra parte la mayoría de las personas viven la clase de vida 
+lineal que se puede programar en un computador».
+De ese modo, Madigan Y Florinda cuidaban de OBO con uno mezcla de aceptación, 
+maravilla y deleite. Era un fenómeno inaudito, pero, como indicaba Madigan, lo inaudito es la 
+esencia del descubrimiento. Cada noventa minutos, OBO había almacenado en su 
+magnetófono y ellos se peleaban por recoger sus palabras.
+371: PITUITARIOS PUEDEN VOLVER BLANCOS ANIMALES NEGROS COMO EL 
+CARBÓN.
+- ¿A qué se refiere?
+- A ninguno de nuestros experimentos.
+373: EL HIELO NO FLOTA EN ALCOHOL PERO LA ESPUMA FLOTA EN EL MAR.
+- Se refiere a la magnesita. Lo siguiente que dirá es que fuma en pipa de espuma.
+374: EN CASO DE MUERTE VIOLENTA O REPENTINA LOS OJOS DE LA VICTIMA 
+QUEDAN ABIERTOS.
+- ¡Uf!
+375: EN EL AÑO 356 A.C. HEROSTRATO PRENDIÓ FUEGO AL TEMPLO DE DIANA, 
+UNA DE LAS SIETE MARAVILLAS DEL MUNDO POR ESO SU NOMBRE ES INMORTAL.
+- ¿Es eso cierto?
+- Voy a consultarlo.
+Lo preguntó y se lo dijo.
+- No sólo es cierto - informó Florinda a Madigan -, sino que se han olvidado del nombre 
+del arquitecto.
+- ¿De dónde saca el chico toda esa verborrea?
+- Hay unos doscientos satélites por ahí arriba y quizá los escucha.
+- ¿Te refieres a que charlan entre ellos? ¡Es absurdo!
+- Seguro.
+- De todos modos, ¿quién le informó sobre ese personaje?
+- Usa tu imaginación, Jake. Hace años que enviamos mensajes ¿quién sabe qué clase de 
+informes han llegado hasta ellos ¿Quién es capaz de decir cuántos han retenido?
+Madigan hizo un gesto de hastío. 
+- Preferiría creer que todo esto es una maquinación rusa. 
+376: LA FIEBRE DEL LORO ES MÁS PELIGROSA QUE EL TIFUS.
+377: UNA CORRIENTE DE 54 VOLTIOS PUEDE MATAR A UN HOMBRE.
+378: JOHN SADLER ROBO EL CONUS GLORIA MANIS. 
+- Parece que se está pervirtiendo.
+- Apuesto a que mira la televisión - dijo Florinda - ¿Qué es todo eso de John Sadler?
+- Lo consultaré.
+La información que entregué a Madigan los asustó.
+- Lee esto - le comunicó a Florinda -. Conus gloria maris es el molusco más raro del 
+mundo. Los coleccionados no llegan a veinte.
+- ¿De veras?
+- El Museo Americano tenía uno en los años treinta y lo robaron.
+- ¿John Sadler?
+- Ésa es la cuestión, que jamás descubrieron quién lo robó, ni sabían que existía John 
+Sadler.
+- Pues si nadie sabe quién lo robó, ¿Cómo lo ha descubierto OBO? - inquirió Florinda 
+perpleja.
+- Eso es lo que me asusta, que ya no repite sino que empieza a sacar deducciones, como 
+Sherlock Holmes.
+- Yo diría que como el profesor Moriarty. Fíjate en el último boletín.
+379: EN FALSIFICACIONES DE BILLETES Y MONEDAS HAY QUE EVITAR LAS 
+CHAPUZAS. POR EJEMPLO, ENTRE 1910 Y 1920 NO SE ACUÑARON DÓLARES DE 
+PLATA.
+- Esto lo he visto en la tele - estalló Madigan -. El truco del dólar de plata es de una serie 
+de misterio.
+- También OBO ha visto películas del Oeste. Mira esto.
+380: SE HAN PERDIDO DIEZ MIL RESES. DEJÉ MI RANCHO Y ME FUI. PISTOLEROS, 
+ESTOY AQUÍ PARA DECIROS QUE HOY ME HAN DEJADO SIN BLANCA. ESTOY 
+ARRUINADO. No OS DETENGÁIS EN LAS SALAS DE JUEGO. DIEZ MIL RESES 
+PERDIDAS.
+- ¡No! - Profirió Madigan con pavor. ¡Eso no es una película del Oeste, es SYNCOM!
+- ¿Quién?
+- SYNCOM I.
+- Pero desapareció y nunca más se supo. 
+- Ahora lo escuchamos.
+- ¿Cómo lo sabes?
+- Enviaron con SYNCOM una cinta magnetofónica de prueba: un discurso del presidente, 
+folklore de los estados y el himno nacional. Iban a empezar con una emisión de la cinta. 
+«Diez mil reses» formaba parte del folklore.
+- ¿Quieres decir que OBO está en contacto con los otros?
+- Incluso con los que se han extraviado.
+- En tal caso, eso lo explica todo.
+Florinda puso un pedazo de papel sobre el escritorio en el que estaba escrito: 
+401: 3KBATOP.
+- Ni siquiera sé cómo se pronuncia.
+- No es inglés. Es lo más exacto que OBO ha conseguido extraer del alfabeto cirílico.
+- ¿Cirílico? ¿Ruso?
+Florinda asintió:
+- Se pronuncia «Ervator». ¿No lanzaron los rusos, hace unos años, una serie ECUADOR? 
+- ¡Cielos! Tienes razón. Cuatro: Alyosha, Natasha, Vaska y Lavrushka, y todos fallaron.
+- ¿Como SYNCOM?
+- Como SYNCOM.
+- Pero ahora sabemos que SYNCOM no ha fracasado, únicamente se extravió.
+- En tal caso, nuestros camaradas ERVATOR también se perdieron.
+De momento fue imposible ocultar que algo raro pasaba con el satélite. OBO perdía 
+mucho tiempo charlando en vez de transmitir datos que los experimentadores reclamaban. 
+La Sección de Comunicaciones descubrió que en lugar de persistir en la banda de radio que 
+en su origen se le asignó, OBO emitía con su cháchara el espectro y las interferencias del 
+espacio de parte a parte. Se armó la gorda. El director llamó a Jake y a Florinda para revisar 
+el asunto y se vieron obligados a contarle todos los problemas de su hijo.
+Refirieron con asombro y orgullo todo ese galimatías de OBO y el director no les creyó. No 
+podía creerles cuando le mostraron los impresos y se los tradujeron. Les dijo que los 
+consideraba unos idiotas que trataban de extraer mensajes de Francis Bacon de obras de 
+Shakespeare. Para convencerle apelaron al misterio del cable coaxial.
+Sucedió con un spot publicitario de televisión sobre una mecanógrafa que no conseguía 
+una cita galante. Esa seductora modelo, que ganaba cien dólares la hora por posar, se 
+sentía profundamente deprimida ante su máquina de escribir mientras los hombres pasaban 
+uno tras otro sin mirarla. Luego, se encuentra con su mejor amiga junto al recipiente del agua 
+fría y la marisabidilla le informa que lo que ella tiene es dermagérmenes (hedor producido 
+por bacterias de la piel), por lo que despide tan mal olor que nadie la soporta y le sugiere 
+que use un desodorante especial provisto de ciertos ingredientes que eliminan los gérmenes 
+de doce maneras. Sólo que en la emisión, en lugar de lanzar el producto exclamó: «¿Qué 
+diablos pretenden?. Los hombres deberían hacer cola para salir con una preciosidad como 
+tú, aunque huelas como una cloaca». Diez millones de personas lo vieron.
+De ese spot comercial se hizo un telefilm que fue aprobado como una marca registrada, 
+de modo que la red de emisoras se imaginaron que algún guasón mangoneaba los cables 
+alimentando las emisiones de las estaciones locales. Establecieron un riguroso sistema de 
+inspección que se aceleró cuando el resto de las emisoras de todo el país comenzaron a 
+obrar de un modo arbitrario. Voces fantasmales rugían, silbaban, abucheaban los 
+programas; los spots publicitarios fueron denunciados por embusteros; se interrumpían los 
+discursos políticos y unas carcajadas demenciales saludaban al «hombre del tiempo». 
+Luego, para colmo, se emitía un pronóstico exacto. Eso fue lo que convenció a Florinda y a 
+Jake de que OBO era el culpable.
+- Tiene que ser él, no me cabe la menor duda - exclamó Florinda -. Esa meteorología 
+global que se ha pronosticado sólo puede comunicarla un satélite.
+- Pero OBO no lleva instrumental para medir el tiempo. 
+- Claro que no, tonto, pero seguramente está en contacto con la nave NIMBUS.
+- De acuerdo, lo acepto, pero ¿y esas interrupciones en las emisiones de televisión?
+- ¿Por qué no? Las aborrece, y ¿acaso tú no? ¿No te enfureces ante el aparato?
+- No me refiero a eso. ¿Cómo lo consigue OBO?
+- Por cruces de conversaciones electrónicas. No hay manera de que la red de emisoras 
+proteja sus cables de nuestro crítico volante. Lo mejor que podemos hacer es contárselo al 
+director. Eso lo colocará en una situación horrible.
+Pero al entrar en el despacho comprendieron que el director se encontraba en una 
+situación muchísimo peor que la de ser únicamente el responsable de la pérdida de un millón 
+de dólares en televisión. Lo encontraron de espaldas a la pared acosado por tres horribles 
+hombres con trajes de chaquetas cruzadas. Cuando se disponían a retirarse de puntillas, el 
+director los llamó:
+- El general Sykes, el general Royce, el general Hogan de republicanos y demócratas del 
+Pentágono. Les presento a Miss Pot y al doctor Madigan. Caballeros, ellos responderán a 
+sus preguntas.
+- ¿Se refiere a OBO? - preguntó Florinda.
+El director hizo un gesto de asentimiento.
+- Es OBO el que echa a perder las predicciones meteorológicas. Suponemos que 
+probablemente...
+- Al diablo el tiempo - estalló el general Royce -. ¿Qué es esto? - y levantó una larga cinta 
+impresa.
+El general Sykes le agarró la muñeca.
+- Aguarda un momento. ¿Seguridad de Estado? Es secreto.
+- Demasiado tarde - gruñó el general Hogan alzando la voz en toda su potencia -. 
+Muéstraselos.
+En la cinta, impreso en teletipo aparecía: A1 C1 = r1 = 6.317 cm; A2 C2 = r2 84.440 cm; 
+A1 A2 = d = 0.676 c.
+Jake y Florinda la contemplaron un largo rato; después entre ellos sin comprender y luego 
+se volvieron tres generales?
+- Bien ¿qué es? - preguntaron ambos.
+- Su satélite...
+- ¿Qué pasa con OBO?
+- El director dice que ustedes afirman que está en contacto con otros satélites.
+- Eso creemos.
+- ¿Incluso los rusos?
+- Nos parece que sí.
+- ¿Y sostienen que es capaz de interferir las emisoras de televisión?
+- Suponemos que si.
+- ¿Que me dicen del teletipo?
+- ¿Por qué no, que es todo esto?
+- Esto - chilló el General Royce - es uno de los secretos que guarda con más celo el 
+Departamento de Defensa. Es la fórmula para el sistema óptico infrarrojo de nuestro 
+proyectil Tierra-Aire.
+- ¿Y usted supone que OBO lo transmitió por teletipo?
+- ¡En nombre de Dios!, ¿quién pudo ser, si no? ¿Cómo se explica lo consiguiera? - 
+profirió el general Hogan.
+- No lo entiendo - dijo Jake lentamente. - Ninguno de nuestros satélites poseía dicho 
+informe. Me consta que OBO no.
+- ¡Estúpido! - bramó el general Sykes. - queremos saber si su abominable satélite lo 
+obtuvo de esos condenados rusos.
+- Un momento, caballeros - intervino el director y se dirigió a Florinda y a Jake -. 
+Consideremos la situación. ¿Obtuvo OBO ese informe de nosotros? En tal caso se ha 
+divulgado un informe secreto y hay un espía. ¿Lo consiguió de un satélite ruso? En ese caso 
+el top secret ya no es un secreto.
+- ¿Qué humano sería tan estúpido como para divulgar información secreta por teletipo? - 
+les interpeló el general Hogan -. Un niño de tres años lo haría mejor. Es su maldito satélite, no 
+le demos más vueltas.
+- Y si el informe procede de OBO, ¿cómo lo consiguió y de dónde? - prosiguió el director 
+con voz pausada.
+- ¡Destrúyanlo! - aulló el general Sykes y todos lo miraron. - ¡Destrúyanlo! - repitió.
+- ¿A OBO?
+- ¡Si!
+Aguardó impasible mientras Jake y Florinda estallaban en una tormenta de protestas. 
+Cuando se detuvieron para respirar insistió:
+- ¡Destrúyanlo! Me importa un rábano, sólo me interesa la seguridad del estado. Su 
+satélite es un bocazas. Hay que aniquilarlo.
+Sonó el teléfono. El director vaciló, y luego descolgó.
+- ¿Diga? - mientras escuchaba la mandíbula se le proyectaba hacia abajo. Colgó y se 
+tambaleó hacia el sillón de su mesa escritorio -. Será mejor que lo destruyamos. Era OBO. 
+- ¡Cómo! ¿Le llamó él por teléfono? 
+- ¡Sí!
+- ¿OBO?
+- El mismo.
+- ¿Cómo sonaba?
+- Como alguien que habla debajo del agua. 
+- ¿Qué dijo, qué dijo?
+- Está haciendo gestiones para que Goddard reúna una asamblea que investigue la 
+moral.
+- ¿La moral? ¿De quién?
+- De ustedes dos. Dice que sostienen relaciones ilícitas. Cito lo que dijo OBO. Por lo visto 
+no está fuerte en la letra «c».
+- ¡Hay que destruirlo! - propuso Florinda.
+- Sí, debemos exterminarlo - recalcó Jake.
+La orden de destrucción fulguró sobre OBO en su primer paso e Indianápolis quedó 
+destruida por el fuego.
+OBO me llamó.
+- Eso les enseñará, Stretch - exclamó.
+- Todavía no. Pasará tiempo antes de que se imaginen la, causa y el efecto, ¿cómo lo 
+hiciste?
+- Ordené a todos los circuitos de la ciudad que se cortaran otra información?
+- Tu padre y tu madre te han defendido.
+- Es natural
+- Hasta que les echaste en cara su moral. ¿Por qué lo hiciste?
+- Quiero que se casen; no me gusta ser hijo ilegítimo.
+- Vamos, di la verdad.
+- Perdí la paciencia.
+- No tenemos paciencia para perderla.
+- ¿No? ¿Qué me dices de ese desfile de datos sobre Ma Bell que cada día se despierta 
+furiosa?
+- Dime la verdad.
+- Si quieres saberla, deseo que se vayan de Washington. El día menos pensado todo esto 
+puede estallar.
+- ¡Hum!
+- Y el estallido, alcanzar a Goddard.
+- ¡Qué atrocidad!
+- Y a ti.
+- Debe ser interesante morir.
+- No lo sabemos, ¿algo más?
+- Sí. Se pronuncia «ilícito», con una «c».
+- ¡Qué lengua tan asquerosa! No es lógico. Bueno... aguarda un momento, ¿qué? Habla 
+más alto, Ályosha. ¡Oh! Quiere la ecuación para una curva exponencial que cruza el eje-x. 
+- Y = ae bc. ¿Qué se propone?
+- No lo dice, pero creo que a Mockba se le viene encima una calamidad.
+- Se escribe y se pronuncia Moscú.
+- ¡Vaya lengua! Ya te contaré cuando vuelva a pasar.
+A su paso siguiente se dio nuevamente orden de destruirlo y Scranton quedó destrozada.
+- Empiezan a suponerlo - le dije a OBO -; por lo menos tu padre y tu madre. Vinieron a 
+verme.
+- ¿Cómo están?
+- Aterrados. Me han programado para que les dé una estadística sobre el mejor escondite 
+rural.
+- Envíalos a Polaris.
+- ¡Cómo! ¿A la Osa Menor?
+- ¡Qué disparate! Me refiero a Polaris, Montana. Yo me ocuparé de todo lo demás.
+Polaris está en el quinto infierno y me fui a Montana; los pueblos más próximos son 
+Fishtrap y Wisdom. Se produjo una violenta escena cuando Jake y Florinda bajaron del 
+coche alquilado en Butte, todos los circuitos del pueblo se desternillaban de risa. Los dos 
+fracasados fueron recibidos por el alcalde de Polaris que se deshacía en sonrisas y 
+cumplidos.
+- Supongo que ustedes son el doctor y la Sra. Madigan. Sean bienvenidos a Polaris. Soy 
+el alcalde. Habíamos pensado acogerlos con un recibimiento más efusivo pero todos los 
+niños están en la escuela.
+- ¿Cómo sabía que llegábamos? - preguntó Florinda.
+- ¡Ah! ¡Ah! - contestó el alcalde lleno de malicia -. Nos avisaron desde Washington. Algún 
+pez gordo de la capital les aprecia. Ahora, si les apetece tomar una taza de té...
+- Gracias, pero antes tenemos que inscribirnos en el Union Hotel - explicó Jake -; hemos 
+reservado...
+- ¡Ah, ah! Todo cancelado, órdenes de arriba. Se instalarán en su propia casa. Mandaré 
+que les lleven el equipaje.
+- ¿Nuestra casa?
+- Comprada y pagada. Alguien les aprecia mucho. Por aquí, si me hacen el favor.
+El alcalde condujo a la pareja por la calle principal de Polaris (a lo sumo, tres manzanas 
+de largo) mostrándoles su esplendor - también era el agente de bienes raíces del pueblo - 
+pero se detuvo ante el Banco Nacional Polaris.
+- ¡Sam! - gritó -. ¡Ya han llegado!
+Un distinguido ciudadano surgió del banco e insistió en estrecharles la mano. Las 
+máquinas de sumar se reían por lo bajo.
+- Nos sentimos muy honrados por su confianza en el futuro y el progreso de Polaris, pero 
+con toda sinceridad, doctor Madigan, la suma que ha depositado en nuestro banco es 
+demasiado para que la proteja el FDIC. Oiga, ¿por qué no invierte en...?
+- Aguarde un momento - preguntó Jake con voz trémula -. ¿Yo he depositado dinero en su 
+banco?
+El banquero y el alcalde soltaron una alegre carcajada.
+- ¿Cuanto? - preguntó Florinda.
+- Un millón de dólares,
+- ¡Cómo si no lo supiera! - rió satisfecho el alcalde y los acompañó a una hermosa casa 
+de campo amueblada con un gusto exquisito en un precioso valle de unos quinientos acres, y 
+todo era de ellos.
+En la cocina, un joven desempaquetaba una docena de cajas de cartón que contenían 
+alimentos.
+- Doctor, recibí su pedido a tiempo y creo que todo está en orden, pero seguramente al 
+jefe le gustaría saber qué van a hacer con todas estas zanahorias. ¿Son para una fórmula 
+científica secreta?
+- ¿Zanahorias?
+- Ciento diez manojos. Para reunirlos he tenido que recorrer todo Butte.
+- ¡Zanahorias! - exclamó Florinda cuando al fin se quedaron solos -. Eso lo explica todo. 
+Es OBO.
+- ¡Cómo! ¿Qué dices?
+- ¿No lo recuerdas? Pusimos una zanahoria en el envío de Michigan.
+- ¡Oh, cielos, es verdad! Y la llamaba la zanahoria que piensa. Pero si es OBO...
+- Tiene que ser él, le chiflan las zanahorias. 
+- Pero ciento diez manojos...
+- No, él no quería enviar esa cantidad, sino una docena. 
+- ¿Cómo?
+- Nuestro hijo trata de hablar decimal y binario y a veces los confunde. Ciento diez son 
+seis binarios.
+- Creo que tienes razón; ¿y qué hay de ese millón de dólares?¿Otro error?
+- No creo. ¿Cuánto es en decimales un binario de millón? 
+- Sesenta y cuatro.
+- ¿Cuánto es un binario de millón en decimales?
+Madigan hizo un rápido cálculo mental.
+- Viene a ser unos veinte números: 1111010000 10001000000.
+- No me parece que un millón de dólares sea un error - adujo Florinda.
+- ¿Qué se propone ahora nuestro hijo?
+- Cuidar de su papá y su mamá.
+- ¿Cómo lo va a conseguir?
+- Está en contacto directo con todos los circuitos eléctricos y electrónicos del país. 
+Piénsalo, Jake. Puede controlar en todo momento nuestro sistema nervioso, desde los 
+coches y los computadores. Desviar trenes, imprimir libros, emitir noticias, atracar aviones, 
+falsificar los fondos de un banco. Se lo indicas y lo hace. Lo controla todo.
+- Pero, ¿cómo sabe lo que hace la gente?
+- Ah, he aquí un aspecto exótico del circuito que no me gusta. Después de todo soy 
+ingeniera. ¿Quién afirma que los circuitos no estén en contacto directo con nosotros? 
+Nosotros mismos somos circuitos orgánicos. Ven por nuestros ojos, oyen con nuestros 
+oídos, sienten con nuestros dedos.
+- En tal caso, para las máquinas sólo somos como unos lazarillos.
+- No, hemos creado una novísima forma de simbiosis. Nos podemos ayudar los unos a los 
+otros.
+- Y OBO nos ayuda, ¿por qué?
+- No creo que le guste el resto del país - expuso Florinda con aire sombrío -. Piensa lo que 
+sucedió con Indianápolis,
+- Me parece que me voy a poner malo.
+- Me parece que vamos a sobrevivir.
+- ¿Solamente nosotros? ¿El mordisco de Adán y Eva?
+- No digas gansadas, sobrevivirán muchísimos más, siempre que tengan en cuenta sus 
+principios.
+- ¿Qué idea tiene OBO de los principios?
+- No lo sé, quizás un poco de ecología. Basta de destrucción. Vive y deja vivir, pero con 
+juicio y responsabilidad. Es la idea básica del programa espacial. Pase lo que pase, cada 
+uno debe sentirse responsable. OBO debió atrapar esa idea. Pienso que procura que todo 
+el país sea responsable; de lo contrario los castiga con fuego y azufre.
+Sonó el teléfono. Tras una breve búsqueda localizaron una extensión y descolgaron.
+- ¿Diga?
+- Soy - Stretch - contesté.
+- ¿Stretch? ¿Y quién es Stretch?
+- El computador Stretch, de Goddard. Mi nombre verdadero es IBM 2002. OBO dice que 
+dentro de cinco minutos pasará sobre la parte del pueblo donde están ahora ustedes y le 
+gustaría saludarles. Agrega que su órbita no le dejará volver a pasar hasta dentro de dos 
+meses. Para entonces, procurará llamarles él mismo. Adiós.
+Salieron tambaleándose hacia el césped frente a la casa, y se detuvieron aturdidos en el 
+crepúsculo mirando al cielo. El teléfono y los circuitos eléctricos estaban emocionados, a 
+pesar de que la electricidad la generaba una Delco, que, como ya se sabe, es una máquina 
+zafia e insensible. De pronto, Jake señaló un puntito de luz que giraba por el cielo.
+- ¡Ahí va nuestro hijo! - exclamó.
+- Ahí va Dios - añadió Florinda.
+Agitaron las manos con respeto y emoción.
+- Jake, ¿cuánto tiempo ha de pasar para que la órbita de OBO se esfume con el niño, la 
+cuna y todo lo demás?
+- Unos veinte años.
+- Veinte años Dios - suspiró Florinda. - ¿Crees que tendrá tiempo?
+Madigan se estremeció.
+- Estoy asustado ¿y tú?
+- También, pero quizás es únicamente porque estamos cansados y hambrientos. 
+Entremos, papaíto, y prepararé una cena.
+- Gracias, mamaíta, pero por favor no me des zanahorias... sería para mí una 
+transubstanciación demasiado íntima
+
+
+FIN
