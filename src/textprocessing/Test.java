@@ -26,9 +26,7 @@ public class Test {
         List<String> contents = new ArrayList<>();
         for(String name : dirNames) {
             String dirContent = Tools.getContents(name);
-            if(dirContent.length() <= Main.MAX_CHARS) {
-                contents.add(dirContent);
-            }
+            contents.add(dirContent);
         }
         return processData(contents);
     }

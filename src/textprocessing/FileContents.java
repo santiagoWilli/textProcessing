@@ -6,6 +6,7 @@ public class FileContents {
     private Queue<String> queue;
     private int maxFiles;
     private int maxChars;
+    private int queueSize;
     private int registerCount = 0;
     private boolean theresBeenActivity = false;
     private boolean closed = false;
@@ -31,14 +32,13 @@ public class FileContents {
     }
     
     public synchronized void addContents(String contents) {
-        while(queue.size() >= maxFiles) {
+        while(queue.size() >= maxFiles || (queue.size() > 0 && queueSize + contents.length() >= maxChars)) {
             try {
                 wait();
             } catch(InterruptedException e) {}
         }
-        if(contents.length() <= maxChars) {
-            queue.add(contents);
-        }
+        queueSize += contents.length();
+        queue.add(contents);
         notifyAll();
     }
     
