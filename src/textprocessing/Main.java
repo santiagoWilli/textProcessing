@@ -1,13 +1,19 @@
 package textprocessing;
 import java.util.*;
 import java.io.*;
-        
-public class Main{
-    final static int MAX_CHARS = 100 * 1024;
+
+/**
+ * Procesador de texto que procesa de forma concurrente los ficheros encontrados
+ * en el directorio datos del HOME del usuario actual e identifica las 10
+ * palabras más frecuentes, ordenadas de mayor a menor.
+ *
+ * @author Santiago Martínez Willi
+ */
+public class Main {
 
     public static void main(String[] args) throws InterruptedException {
         FileNames fileNames = new FileNames();
-        FileContents fileContents = new FileContents(30, MAX_CHARS);
+        FileContents fileContents = new FileContents(30, 100 * 1024);
         WordFrequencies wordFrequencies = new WordFrequencies();
         
         FileReader fr1 = new FileReader(fileNames, fileContents);
@@ -43,6 +49,13 @@ public class Main{
 }
 
 class Tools {
+    /**
+     * Identifica el conjunto de ficheros a procesar en la ruta dada y lo
+     * añade a una lista.
+     *
+     * @param list  lista en la que se añaden los nombres de los ficheros
+     * @param path  ruta en la que se encuentran los ficheros que se quieren procesar
+     */
     public static void getDirNames(List<String> list, String path) {
         File dir = new File(path);
         if(!dir.exists()) {
@@ -60,7 +73,16 @@ class Tools {
             list.add(dir.getAbsolutePath());
         }
     }
-    
+
+    /**
+     * Añade el conjunto de ficheros a procesar en un FileNames, encontrados
+     * con el método getDirNames(). Esta modificación en el método fileLocator()
+     * es debido a que getDirNames() es utilizado en la clase Test y
+     * fileLocator() reutiliza gran parte del código de dicho método.
+     *
+     * @param fn        FileNames en el que se añadirán los nombres de los ficheros
+     * @param dirname   ruta en la que se encuentran los ficheros que se quieren procesar
+     */
     public static void fileLocator(FileNames fn, String dirname){
         List<String> names = new ArrayList<>();
         getDirNames(names, dirname);

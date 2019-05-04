@@ -1,5 +1,10 @@
 package textprocessing;
 
+/**
+ * Hilo que se encarga iterativamente de obtener un nombre de fichero
+ * de un FileNames, leer su contenido y almacenarlo en un FileContents.
+ * Termina si el FileNames le devuelve null.
+ */
 public class FileReader extends Thread {
     private FileNames fn;
     private FileContents fc;
